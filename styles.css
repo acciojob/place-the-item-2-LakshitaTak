@@ -8,24 +8,18 @@
 .item-1{
 	height:100px;
 	width:100px;
-	background-color:red;
-	order:2
-}
-.item-1{
-	height:100px;
-	width:100px;
-	background-color:red;
+	background:red;
 	order:2;
 }
 .item-2{
 	height:100px;
 	width:100px;
-	background-color:blue;
+	background:blue;
 	order:3;
 }
 .item-3{
 	height:100px;
 	width:100px;
-	background-color:green;
+	background:green;
 	order:1;
 }
